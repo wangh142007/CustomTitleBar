@@ -1,0 +1,60 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="47" />
+      <entry action="$Cut" count="1" />
+      <entry action="$Delete" count="36" />
+      <entry action="$Paste" count="55" />
+      <entry action="$Redo" count="202" />
+      <entry action="$SelectAll" count="51" />
+      <entry action="$Undo" count="2139" />
+      <entry action="About" count="1" />
+      <entry action="AddToFavoritesPopup" count="4" />
+      <entry action="ClassNameCompletion" count="2" />
+      <entry action="CleanGradleProject" count="4" />
+      <entry action="CloseAllEditors" count="51" />
+      <entry action="CloseAllEditorsButActive" count="8" />
+      <entry action="CommentByLineComment" count="93" />
+      <entry action="ConsoleView.ClearAll" count="2" />
+      <entry action="Debug" count="16" />
+      <entry action="DialogCancelAction Esc" count="1" />
+      <entry action="DialogOkAction Enter" count="36" />
+      <entry action="EditorBackSpace" count="2732" />
+      <entry action="EditorChooseLookupItem" count="1111" />
+      <entry action="EditorCopy" count="562" />
+      <entry action="EditorCut" count="124" />
+      <entry action="EditorDelete" count="2" />
+      <entry action="EditorDeleteLine" count="437" />
+      <entry action="EditorDown" count="2861" />
+      <entry action="EditorDownWithSelection" count="38" />
+      <entry action="EditorDuplicate" count="1" />
+      <entry action="EditorDuplicateLines" count="25" />
+      <entry action="EditorEnter" count="1131" />
+      <entry action="EditorEscape" count="53" />
+      <entry action="EditorLeft" count="1707" />
+      <entry action="EditorLeftWithSelection" count="22" />
+      <entry action="EditorLineStart" count="1" />
+      <entry action="EditorPageDown" count="1" />
+      <entry action="EditorPageUp" count="2" />
+      <entry action="EditorPaste" count="869" />
+      <entry action="EditorPreviousWord" count="1" />
+      <entry action="EditorRight" count="1925" />
+      <entry action="EditorRightWithSelection" count="121" />
+      <entry action="EditorScrollUp" count="7" />
+      <entry action="EditorSplitLine" count="4" />
+      <entry action="EditorStartNewLine" count="2" />
+      <entry action="EditorTab" count="319" />
+      <entry action="EditorToggleInsertState" count="8" />
+      <entry action="EditorUp" count="1960" />
+      <entry action="EditorUpWithSelection" count="104" />
+      <entry action="ExtractMethod" count="1" />
+      <entry action="Generate" count="11" />
+      <entry action="Github.Create.Gist" count="1" />
+      <entry action="GotoDeclaration" count="354" />
+      <entry action="GotoNextElementUnderCaretUsage" count="3" />
+      <entry action="GotoPrevElementUnderCaretUsage" count="5" />
+      <entry action="HideAllWindows" count="7" />
+      <entry action="ImportApkAction" count="1" />
+      <entry action="IntroduceField" count="17" />
+      <entry action="IntroduceProperty" count="1" />
+  
